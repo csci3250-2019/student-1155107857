@@ -20,14 +20,14 @@
 > > * __Math__
 > > * __Programming__
 > > * __Communication__
-> > * __more …___
+> > * ___more …___
 >
 > ## Some Interesting Github projects
 >
-> 1. [***awesome***][https://github.com/sindresorhus/awesome]
-> 2. [***pix2pix***][https://github.com/phillipi/pix2pix]
-> 3. [***faceswap***][https://github.com/deepfakes/faceswap]
-> 4. [***LeetCodeAnimation***][https://github.com/MisterBooo/LeetCodeAnimation]
+> 1. [***awesome***](https://github.com/sindresorhus/awesome)
+> 2. [***pix2pix***](https://github.com/phillipi/pix2pix)
+> 3. [***faceswap***](https://github.com/deepfakes/faceswap)
+> 4. [***LeetCodeAnimation***](https://github.com/MisterBooo/LeetCodeAnimation)
 
 ## What programming language have you learned?:blush:  (tick them)
 
